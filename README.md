@@ -1,2 +1,20 @@
-# AquaRakshak-SIH-2026
-AquaRakshak is an IoT-enabled smart water quality monitoring and purification system designed to provide safe drinking water in rural and mining-affected areas. The system continuously monitors key water quality parameters and enables real-time analysis, alerts, and sustainable water management.
+# AquaRakshak – Smart Water Quality Monitoring & Purification System
+
+AquaRakshak is an IoT-enabled hardware solution developed for Smart India Hackathon (SIH) 2026. The system continuously monitors water quality parameters such as pH, turbidity, TDS, and temperature, helping ensure safe drinking water in rural and mining-affected regions.
+
+## Features
+
+* Real-time water quality monitoring
+* Sensor-based data collection
+* Automatic alerts for unsafe water conditions
+* Solar-powered operation
+* Support for remote monitoring and reporting
+
+## Team Members
+
+* Khaja Hussain (Team Lead)
+* Sameera
+* Sumanjali
+* Mounika
+* Bhargavi
+* Praveen
